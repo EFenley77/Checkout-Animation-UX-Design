@@ -7,9 +7,9 @@ This project was to create the UX/UI for a checkout experience using at least on
 Through this process, I was able to practice my skills by adding animation to my UX designs. I was able to learn enough about Adobe After Effects to create the animations in there in conjunction with Figma. I still wish I had more experience and skill within Adobe After Effects to take my basic animations to another level. Moving forward I am looking to continue exploring with After Effects and other animating software to be able to create more meaningful animations for my UX designs. 
 
 ## Tool Used
-Adobe After Effects
-Figma
-Midjourney
+#Adobe After Effects
+#Figma
+#Midjourney
 
 ## Processs
 <img width="1193" alt="Screenshot 2025-03-04 at 11 41 48 AM" src="https://github.com/user-attachments/assets/58bd0421-c439-4dff-b99f-dfc6fbe9d280" />
